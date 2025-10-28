@@ -9,3 +9,5 @@ Clicking on each permit will display the data for that permit, where you will se
 
 Exported the DB as a SQL file and added it to the github for you to test out as well. 
 For looks, Bootstrap is used and experimented with.
+
+You can view this website here: https://anslemcoelho.infinityfreeapp.com/Toronto-Noise-Exemption-Permit/
